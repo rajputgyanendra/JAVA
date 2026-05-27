@@ -1,3 +1,17 @@
 write a program to find maximum salary of an employee using lambda
-
+Write a code to count occurrences of each character in a string
+write a program to combine two array in single one
+largest integer in an array {3, 2, 1, 5, 6, 4}
+Convert following json object to java object.
+{
+ "id": 101,
+ "name": "John Doe",
+ "email": "john@example.com"
+}
+write a program to get employee of delhi and add 5lakh in his sal.
+write a program to find duplicated in list.
+write a program to display unique in list.
+write a program to add, remove,sorting and searching elements in arraylist using iterator, for-each and for loop.
+Implement a method that filters a product catalog list based on multiple criteria (price range, category, availability, rating) that can be optionally applied.
+Employee - Eno, name, salary, deptno, gender , How many male employees are there in deptno - 10 
 
