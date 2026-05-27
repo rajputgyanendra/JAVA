@@ -1,0 +1,34 @@
+explain about the project functionality 
+explain about project architecture
+what logging you were using there
+which design pattern used
+
+
+
+what is functional interface
+can we have multiple abstract method with same name and parameters
+marker interfaces in java
+java memory model and how multithreading uses
+ways to create thread and which one is best
+
+bean life cycle
+types of container beanfactory and application context.
+any design pattern in microservices saga design pattern in microservices
+what is index in sql
+hashset and treeset use
+circuit breaker pattern
+proxy design pattern moved to factory and abstract factory pattern
+what do you mean by failfast and failsafe 
+which collection uses failfast and which collection uses failfast and failsafe
+what do you mean by indexing and sharding in sql
+one program to check the method call
+how would it work if singleton scope of any application uses of bean having scope prototype.
+
+
+citi
+
+problems related to try catch adding return in that
+hashmap adding null two times , what will be the output
+hashmap adding string constant pool and string object having same key but different value ask the output
+ask about hashmap, hashtable , concurrent hashmap, about thread safety and synchronised behaviour
+string find no. of count having used column which i need to split from string
