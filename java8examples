@@ -14,4 +14,9 @@ write a program to display unique in list.
 write a program to add, remove,sorting and searching elements in arraylist using iterator, for-each and for loop.
 Implement a method that filters a product catalog list based on multiple criteria (price range, category, availability, rating) that can be optionally applied.
 Employee - Eno, name, salary, deptno, gender , How many male employees are there in deptno - 10 
+problems related to try catch adding return in that
+hashmap adding null two times , what will be the output
+hashmap adding string constant pool and string object having same key but different value ask the output
+string find no. of count having used column which i need to split from string
+value of static variable can be change or not
 
